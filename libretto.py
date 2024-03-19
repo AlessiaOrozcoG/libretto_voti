@@ -37,10 +37,6 @@ class Libretto:
         return sum(punteggi)/len(punteggi)
 
 
-
-
-
-
 voto_1 = Voto("Analisi Matematica 1", 10, 28, False, '2022-02-10')
 voto_2 = Voto("Basi di Dati", 8, 30, True, '2023-06-15')
 
